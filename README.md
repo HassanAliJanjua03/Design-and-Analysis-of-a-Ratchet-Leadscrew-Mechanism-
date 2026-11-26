@@ -13,8 +13,8 @@ An academic mechanical-system modeling project focused on a ratchet and leadscre
 
 | File | Purpose |
 | --- | --- |
-| [Modelling.slx](Modelling.slx) | Original source or design file |
-| [Project Report.pdf](Project%20Report.pdf) | Original source or design file |
+| [Modelling.slx](Modelling.slx) | Simulink model |
+| [Project Report.pdf](Project%20Report.pdf) | Engineering report (PDF) |
 
 ## How to explore or reproduce
 
